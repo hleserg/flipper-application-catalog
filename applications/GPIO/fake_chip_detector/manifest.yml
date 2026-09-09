@@ -2,7 +2,7 @@ sourcecode:
   type: git
   location:
     origin: https://github.com/hleserg/flipper-fake-chip-detector.git
-    commit_sha: 8a8aade4ea449940b432df8be809e82502764c14
+    commit_sha: 9bc39dcf07dbc61eab58da8ca864bd13223bbcef
     subdir: fake_chip_detector
 short_description: Check whether an I2C sensor really is the chip it was sold as, before you solder it in.
 description: "@docs/catalog_description.md"
